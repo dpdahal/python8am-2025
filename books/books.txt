@@ -1,0 +1,2 @@
+name:python,price:2000,author:hari
+name:java,price:12000,author:gopal
